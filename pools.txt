@@ -18,5 +18,5 @@
                 {"pool_address" : "europe.cryptonight-hub.miningpoolhub.com:20580", "wallet_address" : "3107.AMAZONSTACKEU", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : true, "tls_fingerprint" : "", "pool_weight" : 9 },
                                 {"pool_address" : "asia.cryptonight-hub.miningpoolhub.com:20580", "wallet_address" : "3107.AMAZONSTACKasia", "rig_id" : "", "pool_password" : "x", "use_nicehash" : false, "use_tls" : true, "tls_fingerprint" : "", "pool_weight" : 8 },
 ],
-"currency" : "monero7"
+"currency" : "cryptonight_v8"
                                
