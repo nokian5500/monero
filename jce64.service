@@ -1,0 +1,10 @@
+[Unit]
+Description=jce64
+After=network.target
+
+[Service]
+ExecStart=/root/monero/start.sh
+User=root
+
+[Install]
+WantedBy=multi-user.target
