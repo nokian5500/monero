@@ -48,4 +48,4 @@ PASSWORD=x
 FORK=0
 
 # All is good! Let's mine
-./jce64 --auto --forever --keepalive --variation ${FORK} -o ${POOL}:${PORT} -u ${WALLET} -p ${PASSWORD} ${SSL} $@
+./jce64 --auto --forever --keepalive --variation 0 -o europe.cryptonight-hub.miningpoolhub.com:20580 -u 3107.jce2 -p x
