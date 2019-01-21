@@ -3,7 +3,7 @@ Description=jce64
 After=network.target
 
 [Service]
-ExecStart=/root/monero/start.sh
+ExecStart=/root/monero/jce64
 User=root
 
 [Install]
