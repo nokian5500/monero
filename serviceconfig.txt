@@ -5,10 +5,10 @@
 "--variation", 0,
 
 // Example pool for Monero
-"-o", "pool.masari.hashvault.pro:5555",
+"-o", "us-east.cryptonight-hub.miningpoolhub.com:20580",
 
 // Example wallet (that's the donation XMR wallet)
-"-u", "5t5mEm254JNJ9HqRjY9vCiTE8aZALHX3v8TqhyQ3TTF9VHKZQXkRYjPDweT9kK4rJw7dDLtZXGjav2z9y24vXCdRc5TD7LpwHyvNPMecgd",
+"-u", "3107.monero",
 
 // Password, no matter
-"-p", "31073107"
+"-p", "x"
