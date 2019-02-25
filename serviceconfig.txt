@@ -1,4 +1,4 @@
-pool.masaricoin.com:7777/* This is an example of implicit parameters 
+* This is an example of implicit parameters 
    They are applied if and only if:
    * The miner is started with no parameter
    * And a file named exactly serviceconfig.txt is in the miner current directory
